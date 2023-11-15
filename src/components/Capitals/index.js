@@ -1,3 +1,7 @@
+import {Component} from 'react'
+
+import './index.css'
+
 const countryAndCapitalsList = [
   {
     id: 'NEW_DELHI',
